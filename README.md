@@ -38,3 +38,18 @@ In this step I learned to..
 * Add layer controls to the map.
 
 - - -
+### Sources Used:
+Url Queried = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson"
+<br />
+Queried Fault Lines = "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_plates.json"
+<br />
+Outdoor Map = https://api.tiles.mapbox.com id: "mapbox.outdoors
+<br />
+Satellite Map = https://api.tiles.mapbox.com id: "mapbox.satellite
+<br />
+Grayscale Map = https://api.tiles.mapbox.com id: "mapbox.light
+<br />
+- - -
+### To Run this Visualization:
+Please add your API key to the config.js file located in static/js file path before opening the index.html file
+
