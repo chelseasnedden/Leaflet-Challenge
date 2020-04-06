@@ -7,7 +7,7 @@ Welcome to the United States Geological Survey, or USGS for short! The USGS is r
 The USGS is interested in building a new set of tools that will allow them visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding..) on issues facing our planet.
 
 ### Step 1: Basic Visualization
-![1-Logo](Images/Level_One_Visualization.png)
+![First Visual](Images/Level_One_Visualization.png)
 
 Your first task is to visualize an earthquake data set.
 
@@ -31,7 +31,9 @@ Your first task is to visualize an earthquake data set.
 
 ### Step 2: More Data
 
-![2-Logo](Images/Level_Two_Visualization.png)
+![Second Visual](Images/Level_Two_Visualization.PNG)
+
+
 
 The USGS wants you to plot a second data set on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in a second data set and visualize it along side your original set of data. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
 
